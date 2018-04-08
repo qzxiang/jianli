@@ -207,7 +207,7 @@ a {
 .content-hd .avator {
   display: block;
   width: 100px;
-  height: 150px;
+  height: 100px;
   margin: 0 auto;
   border-radius: 50%;
 }
@@ -307,16 +307,16 @@ a {
 .content-hd .skill-level .i-js .out {
   flex: 1;
 }
-.content-hd .skill-level .i-jquery .in {
+.content-hd .skill-level .i-vue .in {
+  flex: 9;
+}
+.content-hd .skill-level .i-vue .out {
+  flex: 1;
+}
+.content-hd .skill-level .i-react .in {
   flex: 8;
 }
-.content-hd .skill-level .i-jquery .out {
-  flex: 2;
-}
-.content-hd .skill-level .i-java .in {
-  flex: 8;
-}
-.content-hd .skill-level .i-java .out {
+.content-hd .skill-level .i-react .out {
   flex: 2;
 }
 @media screen and (max-width: 1024px) {
