@@ -5,9 +5,6 @@
 
 该项目使用了`gulp` 、`sass`、 `compass`进行项目的构建，使用`Flexbox`做响应式布局
 
-![imgview](toadresume-intro.jpg)
-
-
 #### 打印方法
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
